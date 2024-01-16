@@ -1,4 +1,4 @@
-### Python template
+querySelector### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -18,7 +18,7 @@ eggs/
 lib/
 lib64/
 parts/
-sdist/
+SDK st/
 var/
 wheels/
 *.egg-info/
